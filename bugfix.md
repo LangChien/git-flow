@@ -1,2 +1,3 @@
 # bugfix
 - bugfix 1
+- bugfix 2
